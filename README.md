@@ -60,12 +60,14 @@ Eerst heb ik de HTML gemaakt met de HTML zorg ik ervoor dat de stories altijd wo
 
 ## Bronnen
 
+### TuMi Mundo
 [Prototype design TuMi Mundo](https://www.figma.com/file/RDlD4etdXBvcOW9AAqueBz/TuMiMundo_FDND_Prototype?type=design&node-id=0-1&mode=design&t=NvjIgXrZ2n4fxpY1-0)  
 [Opdrachtomschrijving](https://github.com/fdnd-agency/tumi-mundo)
 
-https://docs.directus.io/reference/introduction.html  
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON  
-https://ejs.co  
+### Info technieken
+[Directus Introductie](https://docs.directus.io/reference/introduction.html)    
+[JSON Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)  
+[EJS Docs](https://ejs.co)  
 
 ## Licentie
 
